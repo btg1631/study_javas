@@ -1,5 +1,5 @@
 // refer : https://www.w3schools.com/java/java_for_loop.asp
-public class Loops_fors {
+public class Loopsfors {
     public static void main(String[] args){
         /* 
             for 동작 위한 조건 : 시작점, 종료 조건, 반복 횟수
