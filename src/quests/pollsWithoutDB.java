@@ -13,9 +13,7 @@ public class pollsWithoutDB {
         listquestion.add("파묘 선호도");
 
         ArrayList<String> listanswer = new ArrayList<String>();
-        listanswer.add("1) 좋음");
-        listanswer.add("2) 중간");
-        listanswer.add("3) 나쁨");
+        listanswer.add("1) 좋음 2) 중간 3) 나쁨");
 
         ArrayList<String> listresult = new ArrayList<String>();
 
