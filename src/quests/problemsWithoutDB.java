@@ -9,7 +9,8 @@ public class problemsWithoutDB {
         Scanner scanner = new Scanner(System.in);
 
         ArrayList<HashMap<String, String>> arrayList = new ArrayList<>();
-
+        
+        // <String, Object> 사용?
         HashMap<String, String> hashMap = new HashMap<String, String>();
         hashMap.put("1. 문제: Python에서 변수를 선언하는 방법은? (점수: 10점)",
         "1) var name, 2) name = value, 3) set name, 4) name == value");
